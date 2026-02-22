@@ -3,10 +3,6 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-user-service/src/main/resources/application.properties
-salon-service/src/main/resources/application.properties
-category-service/src/main/resources/application.properties
-service-offering/src/main/resources/application.properties
 
 ### STS ###
 .apt_generated
@@ -16,9 +12,6 @@ service-offering/src/main/resources/application.properties
 .settings
 .springBeans
 .sts4-cache
-.properties
-application.properties
-application-*.properties
 
 ### IntelliJ IDEA ###
 .idea
