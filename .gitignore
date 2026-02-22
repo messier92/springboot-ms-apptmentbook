@@ -15,6 +15,7 @@ category-service/src/main/resources/application.properties
 .settings
 .springBeans
 .sts4-cache
+.properties
 
 ### IntelliJ IDEA ###
 .idea
